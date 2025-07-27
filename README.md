@@ -1,7 +1,7 @@
 # Cell Differentiation Transcription Factor Analysis
 
 **Bio‑Informatics High‑School Project – 2 Unit Submission (June 2015)**
-Authors: *Daniel צאלון (Daniel Tsalon) & Guy Tal*
+Authors: Daninel Tselon Fradkin & Guy Tal*
 Supervisor: Dr Zohar Yitzhaki
 
 ---
